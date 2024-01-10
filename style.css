@@ -37,6 +37,9 @@ main {
   border-radius: 15px;
   padding: 1rem;
 }
+.image-holder {
+  height: 201px;
+}
 .image-holder img {
   border-radius: 10px;
 }
